@@ -21,8 +21,8 @@ https://drive.google.com/file/d/10_4xDNGfBhKWEEa4y8tnbqFgWHWf1xOt/view?usp=shari
 
 
 ## Things to be done
-1. Currently i am bringing up the server and emulator manually by using shell scripts, This need to be fixed further.
-2. Extensive usage of the Page Object Model is not performed, Few values are getting read from the properties file. This need to be avoided.
+1. Currently i am bringing up the server and emulator manually by using shell scripts, This need to be automated further.
+2. Extensive usage of the Page Object Model is not performed, Few values are getting from the properties file. This need to be fixed.
 3. Due to the dynamic nature of the app, some times unexpected things are appearing. Because of this reason testing is not handled propertly. Need to handle those kind of issues.
 4. Reporting is not good. Need to work on this.
 5. Worked only on Nexus 5X emulator, havent done any testing on other emulator, Need to work on this.
