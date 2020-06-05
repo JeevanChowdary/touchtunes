@@ -8,6 +8,7 @@ This framework will test the mobile app of Touchtunes.
 3. Please use the following postal code to setup the location "H3A 1S2".
 
 ## Link to the app tested video
+Video related to the app tested.
 https://drive.google.com/file/d/10_4xDNGfBhKWEEa4y8tnbqFgWHWf1xOt/view?usp=sharing
 
 ## Running the tests on your local machine
