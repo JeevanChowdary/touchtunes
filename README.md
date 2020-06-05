@@ -16,7 +16,7 @@ https://drive.google.com/file/d/10_4xDNGfBhKWEEa4y8tnbqFgWHWf1xOt/view?usp=shari
 2. Update your "./touchtunes/src/main/java/sweetiq/touchtunes/global.properties" file based on your requirement.
 3. Please use the "./touchtunes/src/main/java/Resources/StartServer.sh" for running the server locally
 4. Update the emulator name in "./touchtunes/src/main/java/Resources/StartEmulator.sh" file 
-5. use the "./touchtunes/src/main/java/Resources/StartEmulator.sh" for brinign up your emulator
+5. use the "./touchtunes/src/main/java/Resources/StartEmulator.sh" for bringing up your emulator
 6. Maven build and Run as the "TestNG Test".
 
 
